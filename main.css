@@ -1,0 +1,49 @@
+/* This is a comment, control and forward slash */
+
+/* Main rules */
+html {
+    background-image: url("./aielsd.jpg");
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;
+    background-position: center bottom;
+    ;
+    
+}
+
+
+/* main section */
+
+body {
+    font-size: 150%;
+    color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium';
+    text-shadow: 2px 2px 4px #000000;
+}
+
+/* Class Rules */
+.navbar {
+    display: flex;
+    font-size: 200%;
+    color: blanchedalmond;
+    justify-content: space-evenly;
+
+}
+
+
+.banner {
+    width: 100% !important;
+    height: auto
+}
+/* ID Rules */
+#title {
+    text-align: center;
+}
+
+#kitten {
+    width: 25%;
+}
+
+#webnovel {
+    width: 10%;
+}
